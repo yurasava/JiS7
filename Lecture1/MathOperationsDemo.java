@@ -1,5 +1,5 @@
 package io.yurasava.github;
-
+//*****************Checked****************
 public class MathOperationsDemo {
     public static void main(String[] args) {
         System.out.println("Welcome to the 'Mathoperations'!");
