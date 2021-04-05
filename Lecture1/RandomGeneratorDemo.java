@@ -1,5 +1,5 @@
 package io.yurasava.github;
-
+//*****************Checked****************
 import java.util.Random;
 
 public class RandomGeneratorDemo {
