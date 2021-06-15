@@ -6,10 +6,10 @@ package tasks.conditionaloperator;
 
 public class Stock {
 
-    String companyName;
-    int actualPrice;
-    int minPrice;
-    int maxPrice;
+    private String companyName;
+    private int actualPrice;
+    private int minPrice;
+    private int maxPrice;
 
     public Stock(String companyName, int actualPrice) {
         this.companyName = companyName;
